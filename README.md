@@ -80,7 +80,7 @@ For added words, Dove Bible prefer <span style="border-bottom: 1px dotted">added
 
 And in original [Legacy TBS Online Bible](https://tbsdigital.net), letter is used for cross reference, and number is used for footnote. Dove Bible use icon and omit the letter or number.
 
-![KJV - Dove Bible](dove-bible-kjv.png)
+<img src="dove-bible-kjv.png" width="250">
 
 #### link differences
 
