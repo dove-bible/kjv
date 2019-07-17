@@ -73,10 +73,10 @@ Please note, [Ps 90:1](https://www.tbsonlinebible.com/#en_PSA_90) startswiths "L
 ### Technical Differences
 
 #### style differences
-For added words, Dove Bible prefer <span style="border-bottom: 1px dotted">added</span> to <i>added</i>. It's like this (Gen 1:2):
+For added words, Dove Bible prefer <span style="border-bottom: 1px dotted">added</span>(with dotted underline) to <i>added</i>. It's like this (Gen 1:2):
 
 - darkness <i>was</i> upon the face of the deep
-- darkness <i style="border-bottom: 1px dotted; font-style: normal">was</i> upon the face of the deep
+- darkness <i style="border-bottom: 1px dotted; font-style: normal">was</i> upon the face of the deep (invisible in GitHub)
 
 And in original [Legacy TBS Online Bible](https://tbsdigital.net), letter is used for cross reference, and number is used for footnote. Dove Bible use icon and omit the letter or number.
 
