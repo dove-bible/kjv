@@ -103,12 +103,13 @@ In following verses, in original [Legacy TBS Online Bible](https://tbsdigital.ne
 
 ### Why KJV from TBS?
 
-There are many digital KJV, however, none of them are same:
+There are many digital KJV, however, none of them are same (however, only little differences, which should be acceptable):
 
 - [KJV](https://www.biblegateway.com/versions/King-James-Version-KJV-Bible/) on BibleGateway.com
 - [AKJV](https://www.biblegateway.com/versions/Authorized-King-James-Version-AKJV-Bible/), on BibleGateway.com
 - [BRG](https://www.biblegateway.com/versions/BRG-Bible/) on BibleGateway.com, Blue Red and Gold Letter Edition of KJV
-- [KJV](https://www.biblegateway.com/versions/BRG-Bible/) on bibles.org, British and Foreign Bible Society
+- [KJV](https://bibles.org/versions/eng-KJV) on bibles.org, British and Foreign Bible Society
 - [KJV](https://www.bible.com/versions/1), YouVersion
+- [PCE](http://www.bibleprotector.com), Pure Cambridge Edition
 
 And none of them contain cross references. When I read [King James Version](https://en.wikipedia.org/wiki/King_James_Version) on Wikipedia, then I read [Settings of the King James Bible](http://www.ourkjv.com/KJB.pdf) from [Our KJV](http://www.ourkjv.com/), then I know [Trinitarian Bible Society](https://tbsbibles.org/), and choose KJV from Trinitarian Bible Society.
